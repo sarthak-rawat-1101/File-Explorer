@@ -2,14 +2,10 @@
 # File Explorer
 * Linux based File Explorer built using C++
 * Entire code is written in main.cpp
-* To run either use :
-```sh 
-gcc main.c or g++ main.cpp
+* To run:
+```sh
+g++ main.cpp
 ./a.out
-```
-``` sh 
-make
-./main
 ```
 #### Assumptions
 
