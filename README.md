@@ -3,6 +3,7 @@
 * Linux based File Explorer built using C++
 * Entire code is written in main.cpp
 * To run:
+```
 ```sh
 g++ main.cpp
 ./a.out
